@@ -1,0 +1,4 @@
+build/
+installer/payload.h
+src/dtmod.release.js
+__pycache__/
